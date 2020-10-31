@@ -9,9 +9,9 @@ The notebook also creates the graph of followers and following relationship of t
 ## To be done:
 
 Find popular users in the graph based on 
-    * Degree centrality
-    * Betweeness centrality
-    * Closeness centrality
+* Degree centrality
+* Betweeness centrality
+* Closeness centrality
 
 
 ## Run on local machine:
